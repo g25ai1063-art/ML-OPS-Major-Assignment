@@ -1,5 +1,3 @@
-# ML-OPS-Major-Assignment
-
 # MLOps Major Assignment
 
 Student Name: Soumyashanta Amaresh
